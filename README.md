@@ -1,2 +1,3 @@
 # Techist
-tech
+
+Link to site https://techist.netlify.app/
